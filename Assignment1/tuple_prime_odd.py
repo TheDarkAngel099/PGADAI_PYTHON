@@ -25,7 +25,6 @@ def count_primes_and_odds(numbers):
 
     return prime_count, odd_count
 
-# Example usage
 data = (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 13, 15, 17, 19, 20)
 primes, odds = count_primes_and_odds(data)
 
