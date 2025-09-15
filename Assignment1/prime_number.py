@@ -16,3 +16,5 @@ def main():
         print(num, "is a prime number.")
     else:
         print(num, "is not a prime number.")
+
+main()

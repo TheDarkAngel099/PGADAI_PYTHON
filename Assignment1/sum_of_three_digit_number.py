@@ -5,5 +5,5 @@ def sum_of_digits_of_three_digit_number(number):
     else:
         return "Enter a valid three digit number"
 
-num = 555
-print("Sum of digits: ", sum_of_digits_of_three_digit_number(num))
+num = 789
+print(f"Sum of digits of number {num}:", sum_of_digits_of_three_digit_number(num))
