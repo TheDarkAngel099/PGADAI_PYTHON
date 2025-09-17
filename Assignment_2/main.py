@@ -73,7 +73,7 @@ print("Full names:", combine_names(names, surnames))
 
 print("-" * 40)
 
-data = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10}
+data = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10,"ola"}
 odd_list, even_list, prime_list = separate_numbers(data)
 print("Odd:", odd_list)
 print("Even:", even_list)

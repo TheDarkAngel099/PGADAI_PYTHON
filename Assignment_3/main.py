@@ -14,8 +14,8 @@ def run_checkout():
 
         print(checkout.get_invoice())
 
-        #checkout.clear()
-        #(checkout.get_total_cost())  # Will raise exception
+        checkout.clear()
+        (checkout.get_total_cost())  # Will raise exception
 
     except CartIsEmptyException as ce:
         print("Error:", ce)
