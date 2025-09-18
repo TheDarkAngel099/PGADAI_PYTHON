@@ -58,7 +58,7 @@ print("Sum :" , my_add(2,25,4,3242,324,24,24,234,2,34,24,2,4,234,234,2,42))
 print("-" * 40)
 
 data = [1, 2, 3, 4, 5, 6, 7]
-print("Split list:", performAction(data, 3))
+print("Split list:", performAction(data, 4))
 
 print("-" * 40)
 
